@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always wanted to tell you... ^2500', 'Nevermind! >///<']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Hey! Selamat Ulang Tahun Yang buka web ini heyyyy :D ^2500', 'Barakallahu fii umrik Sayang,Semoga selalu diberi kesehatan, selalu diberi umur yang berkah dan sukses di dunia maupun di akhirat. Aamiin :*']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
