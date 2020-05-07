@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Hey! Selamat Ulang Tahun Yang buka web ini heyyyy :D ^2500', 'Barakallahu fii umrik Sayang,Semoga selalu diberi kesehatan, selalu diberi umur yang berkah dan sukses di dunia maupun di akhirat. Aamiin :*']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Hey! Selamat Ulang Tahun Yang buka web ini heyyyy :D ^2500', 'Barakallahu fii umrik Sayang,Semoga selalu diberi kesehatan, selalu diberi umur yang berkah dan sukses di dunia maupun di akhirat. Aamiin :*', 'Semoga Apa Yang Disemogakan Tersemogakan','Semoga makin disayang orang tua sebaliknya masih terus sayang ke orang tua keluarga dan paling penting yg kedua Masih tetep sayang ke abi dan keluarga abi :D mau gimana pun kondisi abi ayang masih bisa nerima abi apa adanya :* ','Maafin Abi Udah banyak janji ini itu tapi ga ditepatin abi minta maaf banget :(','ya semoga dihari ulang tahun ayang di hari umur ayang makin berkurang abi pengen ikut ngedoa juga biar abi bisa lebih baik dari sekarang dan seterusnya aamiin:)','Maafin belum bisa ngado berbentuk fisik tapi insyallah nyusul oks:D dan masih rahasia moal dikasih tau apa apanya mah :v','pokonya sekali lagi happy birthday selamat ulang tahun selamat ulang tahun selamat ulang tahun i love u so much :* emot lopenya klik aja background nya yaa :* :v ']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
